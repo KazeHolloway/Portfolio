@@ -1,3 +1,4 @@
+import VideoSection from "../components/VideoSection";
 
 export default function Home() {
   return (
@@ -19,9 +20,16 @@ export default function Home() {
           <li>   ⁜ Cars location with WinDev 25</li>
           <li>   ⁜ Graphics generator with ChartJS</li>
           <li>   ⁜ Books managment with Java</li>
-          <li>   ⁜ Todo app</li>
-          <li>   ⁜ Portfolio</li>
+          <li>   ⁜ Todo app with React JS</li>
+          <li>   ⁜ Portfolio with Next JS</li>
         </ul>
+
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+        
+        <br id="game" />
+        <p><strong>Here is a little gameplay video of <em>Dragon Ball FighterZ</em> :</strong></p>
+        <br />
+        <VideoSection />
 
         <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         
@@ -33,7 +41,6 @@ export default function Home() {
           <li>   ⁜ GitHub : https://github.com/KazeHolloway</li>
           <li>   ⁜ PlayStation Network : DeDarnat</li>
         </ul>
-
       </main>
     </div>
   );

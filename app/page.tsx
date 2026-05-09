@@ -16,21 +16,22 @@ export default function Home() {
         <br id="project" />
         <p><strong>Here are some of my projects :</strong></p>
         <ul>
-          <li>⁜ Cars location with WinDev 25</li>
-          <li>⁜ Graphics generator with ChartJS</li>
-          <li>⁜ Books managment with Java</li>
+          <li>   ⁜ Cars location with WinDev 25</li>
+          <li>   ⁜ Graphics generator with ChartJS</li>
+          <li>   ⁜ Books managment with Java</li>
+          <li>   ⁜ Todo app</li>
+          <li>   ⁜ Portfolio</li>
         </ul>
 
         <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
         
         <br id="contact" />
         <p><strong>Contact me :</strong></p>
-        <br />
         <ul>
-          <li>⁜ Phone : +242 06 690 5598</li>
-          <li>⁜ Email : darlychrist05@gmail.com</li>
-          <li>⁜ GitHub : https://github.com/KazeHolloway</li>
-          <li>⁜ PlayStation Network : DeDarnat</li>
+          <li>   ⁜ Phone : +242 06 690 5598</li>
+          <li>   ⁜ Email : darlychrist05@gmail.com</li>
+          <li>   ⁜ GitHub : https://github.com/KazeHolloway</li>
+          <li>   ⁜ PlayStation Network : DeDarnat</li>
         </ul>
 
       </main>
